@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'iranSans';
+  src: url(./fonts/iranSans/is-regular.woff);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'iranSans';
+  src: url(./fonts/iranSans/is-demiBold.woff);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'iranSans';
+  src: url(./fonts/iranSans/is-bold.woff);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'iranSans';
+  src: url(./fonts/iranSans/is-extraBold.woff);
+  font-weight: 900;
+}
+
+* {
+  font-family: 'iranSans' !important;
+  box-sizing: border-box;
+}
